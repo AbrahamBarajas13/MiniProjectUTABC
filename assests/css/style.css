@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    position: relative;
+    background-color: lightblue;
+}
+
+header{
+    text-align: right;
+}
